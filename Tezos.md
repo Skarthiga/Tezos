@@ -129,6 +129,8 @@ Git
 11.	git push origin <branchname>
 12.	git checkout -b <branchname>
 13.	git push -u origin <branchname>
+	
+	
 Symbol change:
 1.	Src/proto_005_babylon/lib_client/client_proto_args.ml  -> tez_sym(line number 126)
 2.	Src/proto_006_cartha/lib_client/client_proto_args.ml -> tez_sym(line number 126)
